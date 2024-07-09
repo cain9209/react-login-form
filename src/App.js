@@ -9,8 +9,6 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-
-        <img src={logo} className="App-logo" alt="logo" />
           <div>
                                      <h1>Login Here!</h1>
                                      <LoginForm />
