@@ -14,7 +14,7 @@ function App() {
         <div className="App">
               <HomePage /> {}
             </div>
-          );
+
         <a
           className="App-link"
           href="https://reactjs.org"

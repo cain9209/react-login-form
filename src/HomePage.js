@@ -11,14 +11,14 @@ function HomePage() {
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li><a href="#Register">Register</a></li>
+            <li><a href="#logout">Log Out</a></li>
           </ul>
         </nav>
       </header>
       <main>
         <section id="home">
-          <h2>Home Section</h2>
-          <p>This is the home section.</p>
+          <h2>What is Sho-Mo-Events About?</h2>
+          <p>Increased Marketability and Profit</p>
         </section>
         <section id="about">
           <h2>About Section</h2>
@@ -28,6 +28,13 @@ function HomePage() {
           <h2>Contact Section</h2>
           <p>This is the contact section.</p>
         </section>
+         <section id="post-event">
+            <h2>Post and Event!</h2>
+              <p>This is the contact section.</p>
+              <div class='nav-item'>
+              <a href='#eventpost'>Post event here!</a>
+              </div>
+             </section>
       </main>
       <footer className="footer">
         <p>&copy; 2024 My Website</p>
