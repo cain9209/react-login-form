@@ -1,0 +1,31 @@
+.header {
+  background-image: url('./bg.png');
+  padding: 20px;
+  text-align: center;
+
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-list li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.nav-list a {
+  color:maroon
+}
+
+
+.main {
+  padding: 20px;
+}
+
+.footer {
+  background-color: #D83A18;
+  padding: 10px;
+  text-align: center;
+}
